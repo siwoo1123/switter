@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
-    "git": "git add . && git commit -m \"abs\" && git push origin master  "
+    "git": "git add . && git commit -m \"abs\" && git push origin master"
   },
   "eslintConfig": {
     "extends": [
